@@ -184,5 +184,8 @@
   "create-react-native-library": {
     "type": "library",
     "version": "0.41.1"
+  },
+  "dependencies": {
+    "react-native-webview": "^13.12.2"
   }
 }

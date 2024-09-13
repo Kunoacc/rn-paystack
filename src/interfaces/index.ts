@@ -1,9 +1,11 @@
+import type { StyleProp, ViewStyle } from 'react-native';
+
 export interface PaystackBaseProps {
   onSuccess: (reference: string) => void;
   onCancel: () => void;
   onError: (error: string) => void;
   activityIndicatorColor?: string;
-  containerStyle?: object;
+  containerStyle?: StyleProp<ViewStyle>;
   webViewStyle?: object;
 }
 
