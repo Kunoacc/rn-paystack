@@ -1,5 +1,5 @@
 {
-  "name": "react-native-paystack",
+  "name": "rn-pstack",
   "version": "0.1.0",
   "description": "This is a react native library for paystack that supports more recent conventions around how payments are handled via paystack on react native applications on both iOS and Android.",
   "source": "./src/index.tsx",
@@ -53,7 +53,7 @@
     "type": "git",
     "url": "git+https://github.com/Kunoacc/react-native-paystack.git"
   },
-  "author": "Nelson Nelson-Atuonwu <nellyatuonwu@gmail.com> (https://github.com/Kunoacc)",
+  "author": "Nelson Nelson-Atuonwu <nelson@nelsonatuonwu.me> (https://github.com/Kunoacc)",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/Kunoacc/react-native-paystack/issues"
