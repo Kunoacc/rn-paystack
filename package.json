@@ -1,6 +1,6 @@
 {
   "name": "rn-pstack",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "This is a react native library for paystack that supports more recent conventions around how payments are handled via paystack on react native applications on both iOS and Android.",
   "source": "./src/index.tsx",
   "main": "./lib/commonjs/index.js",
